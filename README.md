@@ -1,5 +1,5 @@
-# A set of animated and/or interactive plots for year 2 undergraduate Electromagnatism lectures at Manchester 
-*These are intended for the year 2 undergraduate Electromagnatism students at Manchester.*
+# A set of animated and/or interactive plots for year 3 undergraduate Electromagnatism lectures at Manchester 
+*These are intended for the year 3 undergraduate Electromagnatism students at Manchester.*
 ---
 
 To use these files:
